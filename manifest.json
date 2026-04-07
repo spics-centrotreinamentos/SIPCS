@@ -1,0 +1,10 @@
+{
+  "name": "SIPCS - Sistema Integrado de Problema, Causa e Solução",
+  "short_name": "SIPCS",
+  "description": "Ferramenta técnica de apoio à manutenção, engenharia e treinamentos.",
+  "start_url": "/SIPCS/",
+  "display": "standalone",
+  "background_color": "#0d0e10",
+  "theme_color": "#0d0e10",
+  "orientation": "portrait"
+}
